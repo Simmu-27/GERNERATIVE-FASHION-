@@ -1,9 +1,4 @@
-print("hello worild")
-"""
-Generative Fashion Design Tool
-Author: Simran
-Description: Starter script for AI-powered fashion design using diffusion models.
-"""
+
 
 import torch
 from torch import nn
